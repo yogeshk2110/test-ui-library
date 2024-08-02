@@ -1,0 +1,19 @@
+/* src/components/InputField/InputField.css */
+.input-field {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .input-field label {
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+  }
+  
+  .input-field input {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+
+/*# sourceMappingURL=components-InputField-InputField-stories.884defe5.chunk.css.map*/
